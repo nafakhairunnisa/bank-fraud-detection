@@ -44,17 +44,28 @@ Kemungkinan Penyebab Utama:
 ## Insight Utama
 Kesimpulan Cluster:
 1. Cluster 0 & 1
-  Kategori: Akun Normal
-  Karakteristik: Transaksi rutin dengan besaran kecil-sedang, frekuensi stabil, dan pola penggunaan konsisten
-  Kesimpulan: Tidak ada indikasi transaksi mencurigakan yang kuat.
+
+Kategori: Akun Normal
+
+Karakteristik: Transaksi rutin dengan besaran kecil-sedang, frekuensi stabil, dan pola penggunaan konsisten
+
+Kesimpulan: Tidak ada indikasi transaksi mencurigakan yang kuat.
+
 2. Cluster 2 & 3
-  Kategori: Akun Aktif
-  Karakteristik: Jumlah transaksi tinggi, variasi lokasi/IP terbatas, dan dominan channel Mobile Banking
-  Kesimpulan: Kemungkinan pengguna bisnis, perlu monitoring.
+
+Kategori: Akun Aktif
+
+Karakteristik: Jumlah transaksi tinggi, variasi lokasi/IP terbatas, dan dominan channel Mobile Banking
+
+Kesimpulan: Kemungkinan pengguna bisnis, perlu monitoring.
+
 3. Cluster 4 & 5
-  Kategori: High-Risk Fraud
-  Karakteristik: Transaksi besar dan frekuensi tinggi, alamat IP bervariasi (multi-country), dan multi-perangkat dengan channel Online, waktu transaksi tidak wajar (seperti 02.00-05.00), dan banyak percobaan login gagal sebelum transaksi
-  Kesimpulan: Berpotensi tinggi sebagai akun mencurigakan atau penipuan.
+
+Kategori: High-Risk Fraud
+
+Karakteristik: Transaksi besar dan frekuensi tinggi, alamat IP bervariasi (multi-country), dan multi-perangkat dengan channel Online, waktu transaksi tidak wajar (seperti 02.00-05.00), dan banyak percobaan login gagal sebelum transaksi
+
+Kesimpulan: Berpotensi tinggi sebagai akun mencurigakan atau penipuan.
 
 ## Future Works
 1. Menganalisis potensi kebocoran data saat klasifikasi
