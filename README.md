@@ -1,6 +1,8 @@
 # Bank Fraud Detection: Hybrid Clustering & Classification
 
-
+![Transaksi Bank](https://github.com/nafakhairunnisa/bank-fraud-detection/blob/main/towfiqu-barbhuiya-HNPrWOH2Z8U-unsplash.jpg?raw=true)
+Foto oleh Towfiqu barbhuiya di [Unsplash](https://unsplash.com/id/foto/orang-yang-memegang-perangkat-elektronik-hitam-putih-HNPrWOH2Z8U?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+      
 
 ## Overview
 
@@ -12,6 +14,7 @@ graph TD
     B --> C[Labeled Data]
     C --> D[Classification]
     D --> E[Fraud Prediction]
+```
 
 ## Tujuan
 1. Mengidentifikasi pola transaksi mencurigakan melalui clustering
